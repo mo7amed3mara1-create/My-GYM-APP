@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    deprecated_member_use: ignore
+    unnecessary_underscores: ignore
+    use_null_aware_elements: ignore
+
+linter:
+  rules:
+    prefer_const_constructors: false
+    prefer_const_declarations: false
